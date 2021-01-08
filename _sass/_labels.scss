@@ -1,0 +1,33 @@
+.page-tag {
+  transform-origin: bottom left;
+  text-transform: uppercase;
+  transform: rotate(-90deg);
+  color: $purple;
+  position: absolute;
+  left: 0px;
+  z-index: 100;
+  top: 28vh;
+  font-size: 1.25rem;
+  padding-bottom: .25rem;
+  visibility: hidden;
+}
+
+.post-tag {
+  color: $purple;
+  background: $teal;
+  &--sideways {
+    transform-origin: top right;
+    transform: rotate(-90deg);
+    position: absolute;
+    padding: .15em 1.5em;
+    top: 20px;
+    right: .5rem;
+    z-index: 100;
+  }
+}
+
+@media(min-width: 1000px) {
+  .page-tag {
+    visibility: visible;
+  }
+}

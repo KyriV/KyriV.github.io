@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="post-header" style="background-image: url('{{ site.baseurl }}/public/images/posts/{{ page.date | date: "%Y-%m-%d" }}/bg.jpg')">
+  <div class="flex-col-center h-100 tc orange-overlay pa2">
+    <h1 class="tc ma0 center f3 f2-ns teal">{{ page.title }}</h1>
+    <p class="white">{{ page.date | date: "%-d %B %Y" }}</p>
+  </div>
+
+</div>
+<div class="post">
+  <div class="post-inner">
+    {{ content }}
+  </div>
+  <hr class="hr hr--gradient">
+  {% include post-footer.html %}
+
+</div>

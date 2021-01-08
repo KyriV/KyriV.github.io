@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Kyri Vassilas</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2021-01-08T17:53:13+00:00</updated>
+ <id></id>
+ <author>
+   <name>Kyri Vassilas</name>
+   <email>kyriness@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>My third post</title>
+   <link href="/blog/2021/01/03/post-two/"/>
+   <updated>2021-01-03T08:00:00+00:00</updated>
+   <id>/blog/2021/01/03/post-two</id>
+   <content type="html">&lt;p&gt;My third post&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My second post</title>
+   <link href="/blog/2021/01/02/post-three/"/>
+   <updated>2021-01-02T08:00:00+00:00</updated>
+   <id>/blog/2021/01/02/post-three</id>
+   <content type="html">&lt;p&gt;My second post&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My first post</title>
+   <link href="/blog/2021/01/01/post-one/"/>
+   <updated>2021-01-01T08:00:00+00:00</updated>
+   <id>/blog/2021/01/01/post-one</id>
+   <content type="html">&lt;p&gt;My first post&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

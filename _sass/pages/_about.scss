@@ -1,0 +1,14 @@
+.profile-header {
+  overflow: hidden;
+  width: 100vw;
+  margin-left: -1em;
+  border-bottom: solid 2px $purple;
+  img {
+    border-radius: 50%;
+    border: solid 3px $purple;
+    height: 200px;
+    width: 200px;
+    margin-bottom: -50px;
+    margin-right: 2em;
+  }
+}

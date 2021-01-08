@@ -1,0 +1,22 @@
+header {
+  margin: .75em 0;
+  padding: 0 1em;
+  height: 4.5em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul span {
+  color: $purple;
+}
+
+.nav-item {
+  display: inline-block;
+  margin: .5em;
+  border-bottom: solid 3px transparent;
+  &--active { border-bottom: solid 3px $purple; }
+  &:hover, &:active {
+    border-bottom: solid 3px $purple;
+  }
+}

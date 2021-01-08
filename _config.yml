@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               'Kyri Vassilas'
+tagline:             'Junior QA'
+description:         "Hello. I make web apps with JavaScript, using frameworks and libraries like Node, Angular, Aurelia and React."
+url:                 ''
+baseurl:             ''
+
+# About/contact
+author:
+  name:              'Kyri Vassilas'
+  url:               ''
+  email:             kyriness@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+markdown: kramdown
+highlighter: rouge

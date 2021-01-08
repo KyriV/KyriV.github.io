@@ -1,0 +1,21 @@
+a, a:link, a:visited, a:active, a:focus {
+  text-decoration: none;
+}
+
+.link--internal {
+  &:active, &:hover {
+    border-bottom: solid $teal;
+  }
+}
+
+// Set border-widths for internal link hover state
+h1 .link--internal:hover { border-width: 6px; }
+h2 .link--internal:hover { border-width: 4px; }
+h3 .link--internal:hover { border-width: 3px; }
+
+.link--external {
+  &:hover, &:active {
+    color: $purple;
+    transition: color 100ms linear;
+  }
+}

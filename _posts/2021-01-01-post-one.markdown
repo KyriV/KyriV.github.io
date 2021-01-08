@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "My first post"
+images_path: '2021-01-01'
+date:   2021-01-01 09:00:00 +0100
+tags: ['blog']
+category: blog
+summary: 'My first post'
+images:
+  menu: 'menu.jpg'
+---
+
+My first post
