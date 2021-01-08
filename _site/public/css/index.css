@@ -149,7 +149,7 @@ ul span { color: #ff9898; }
 
 .post-footer__profile { padding: 1em 0; }
 
-.post-footer__disqus { padding: 1em; }
+.post-footer__disqus { padding: 1em 0; }
 
 .codepen-block { margin: 5em 0 5em -1em; padding: 5em 0; width: 100vw; background: #ececec; min-height: 50vh; }
 
