@@ -4,7 +4,7 @@
  <title>Kyri Vassilas</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2021-01-08T19:20:44+00:00</updated>
+ <updated>2021-01-18T17:41:05+00:00</updated>
  <id></id>
  <author>
    <name>Kyri Vassilas</name>
@@ -13,29 +13,45 @@
 
  
  <entry>
-   <title>My third post</title>
-   <link href="/blog/2021/01/03/post-two/"/>
-   <updated>2021-01-03T08:00:00+00:00</updated>
-   <id>/blog/2021/01/03/post-two</id>
-   <content type="html">&lt;p&gt;My third post&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>My second post</title>
-   <link href="/blog/2021/01/02/post-three/"/>
-   <updated>2021-01-02T08:00:00+00:00</updated>
-   <id>/blog/2021/01/02/post-three</id>
-   <content type="html">&lt;p&gt;My second post&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>My first post</title>
-   <link href="/blog/2021/01/01/post-one/"/>
-   <updated>2021-01-01T08:00:00+00:00</updated>
-   <id>/blog/2021/01/01/post-one</id>
-   <content type="html">&lt;p&gt;My first post&lt;/p&gt;
+   <title>My Testing Story</title>
+   <link href="/blog/2021/01/04/my-testing-story/"/>
+   <updated>2021-01-04T08:00:00+00:00</updated>
+   <id>/blog/2021/01/04/my-testing-story</id>
+   <content type="html">&lt;p&gt;I’ve never written a blog before. But in these unprecedented times why not step outside of your comfort zone and try something new. I mean that’s what i’m doing with my career so why not go for it!&lt;/p&gt;
+
+&lt;h2 id=&quot;a-bit-about-me&quot;&gt;A Bit About Me&lt;/h2&gt;
+
+&lt;p&gt;For a little introduction, I never thought I would get into a technical job, I never thought I was smart enough or mathematically minded enough. But I’ve always been a curious person, wanting to know more and understand exactly how things work.&lt;/p&gt;
+
+&lt;p&gt;Studying theatre, a very creative and social subject, was great. I learnt a lot in my career in the industry, particularly enjoying coordinating events and ironing out the financials and contractual details.  But I still felt like I was leaving behind all my other interests like biology, psychology, technology and history.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-outbreak&quot;&gt;The Outbreak&lt;/h2&gt;
+
+&lt;p&gt;When the pandemic hit, suddenly I had more time on my hands so I finally decided to use it and learn something new again, so I started with the coding basics; HTML, CSS and Javascript, all while working from home full time.&lt;/p&gt;
+
+&lt;p&gt;I was one of two people who hadn’t been furloughed at the venue but then in July we got the unfortunate news that we were all going to be made redundant.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-opportunities&quot;&gt;New Opportunities&lt;/h2&gt;
+
+&lt;p&gt;So with this I decided to think more seriously at seeing this as an opportunity to move into another industry, somewhere I could return to some of my old interests and where I’d be able to work on a range of different projects and in different systems. A job where I will always be learning and developing my skills.&lt;/p&gt;
+
+&lt;p&gt;While learning the basic development skills, I began to look into all the different roles that exist in the tech world. I wanted a role where I could still use some of my existing skills that I’d developed over 6 years. That’s when I came upon Quality Assurance.&lt;/p&gt;
+
+&lt;h2 id=&quot;discovering-qa&quot;&gt;Discovering QA&lt;/h2&gt;
+
+&lt;p&gt;Aspects that drew me to the role were its need for organisation - something I really enjoy (I was awarded best revision notes for my biology GCSE). So I’m certain I’ll enjoy writing and executing test cases and keeping careful notes during exploratory testing.&lt;/p&gt;
+
+&lt;p&gt;I also love the methodical approach of testing, something I’ve become even more adept at since the uTest Academy (more on this later). A lot of QA is now an essential part of every project, from pre to post completion. This perfectly feeds into my desire to be part of the process from the beginning to end and keeping the original vision of the project in mind at all times.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-it-works-for-me&quot;&gt;Why It Works For Me&lt;/h2&gt;
+
+&lt;p&gt;In my old job sometimes my whole day would be spent pouring over contracts on Word and Excel, making sure that all the information was accurate and looked as it should. For it to then be passed to my manager for final approval. Other days I’d go through event checklists making sure paperwork was in order, correct machinery ordered and that everyone had the information they needed. Now if that’s not quality assurance of a sort, I’ll eat my hat.&lt;/p&gt;
+
+&lt;p&gt;Making sure events were delivered accurately and on time was all I did for years and I enjoyed it. The details and the checklists were what I relished and I’m sure that will be very useful when it comes to writing up tickets on JIRA. I like making sure something looks good and works as intended. If I put those core enjoyment aspects into another industry I believe that would be called QA.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+
+&lt;p&gt;So now that’s sorted I just need to figure out how to do it with a whole new set of methods and tools. Here we go…&lt;/p&gt;
 </content>
  </entry>
  

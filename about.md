@@ -5,12 +5,12 @@ title: About
 
 ## About Me
 
-My name is Kyri and I'm a politics graduate turned full-stack developer. A bit of a pivot. I'm totally self-taught, from books, blogs, podcasts, YouTube, reading documentation, scouring GitHub issues and taking in the consensus from popular Stack Overflow answers.
+Hi I’m Kyri, a Theatre and Events professional turned QA. I am self-taught, and have started my QA journey working through the uTest academy, studying for the ISTQB qualification, listening to podcasts such as The QA Lead, and engaging with the test community through blog posts, YouTube videos and anything else in between.
 
 ## Skills
 
-I'm now able to design, develop and deploy full-stack applications from the ground-up. I know my way around graphical editors like Sketch and Photostop. I'm confident with HTML and CSS and have experience with popular libraries like Bootstrap and Foundation although I can work without them (Flexbox to the rescue).
+The first-hand experience of test cycles on uTest has made me a confident tester on both mobile and desktop devices. I’m now able to compile concise bug reports with accompanying screenshots, screen recordings and logs from the browser and device. I have got to grips with the software, understanding how the developer tools work in the browser and how to use simulators and retrieve device logs in Android Studio and XCode. 
 
-I'm confident with component-based front-end frameworks like Angular, React and Aurelia but still love working with jQuery and can get fairly far with VanillaJS. I love writing JavaScript.
+I also have a good grasp on the technical environment, and am familiar with agile working methodologies, workflow management applications like JIRA and version control software like Github. I also have basic HTML, CSS and JavaScript skills.
 
-Most of my back-end experience has been with the Node, Express and MongoDB stack but I've also had some practice with Rails and Laravel. But I'm very keen on the JS stack in general. Being able to write JavaScript everywhere feels great.
+I’ve also been learning the theoretical knowledge to back up these practical skills. Studying for the ISTQB and going through the uTest academy has taught me how to write and execute test cases and carry out exploratory testing.
